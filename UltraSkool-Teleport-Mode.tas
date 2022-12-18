@@ -1,0 +1,59 @@
+# UltraSkool
+# https://gamebanana.com/mods/150604
+
+RecordCount: 68
+
+console load DeathKontrol/UltraSkool
+Set, ExtendedVariantMode.DashSpeed, 100
+   1
+#Start
+#a-01
+  69
+  40
+   7,R,X
+  26,R,D
+   5,R,X
+  40
+
+#b-00
+   2
+  40
+
+#b-01
+   4
+   4,D
+   5,D,X
+  10
+   5,J
+   5,R,X
+  40
+
+#b-02
+   3
+  40
+
+#b-03
+   7
+  58,R,D
+   7,R,X
+  40
+
+#b-04
+   8
+  78,R,D
+   8,R,X
+  40
+
+#b-05
+  50,L,D
+   6,L,Z
+   5
+  10,L,J,G
+   8
+  12,J
+   1
+  15,L,U,X
+ 124
+#END_IGT
+ChapterTime: 0:12.189(717)
+   
